@@ -1,4 +1,7 @@
 Changelog:
+1.3.0 (3-3-2018)
+ - Uploaded to GitHub after all these years.
+
 1.2.9 (4-29-2015)
  - ArrayLists added to Assignment 5. Not exactly clean but it works
 
