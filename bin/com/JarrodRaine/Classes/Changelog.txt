@@ -1,0 +1,58 @@
+Changelog:
+1.2.9 (4-29-2015)
+ - ArrayLists added to Assignment 5. Not exactly clean but it works
+
+1.2.8 (4-13-2015)
+ - Tried and failed on MainMenuGUI
+
+1.2.7 (4-6-2015)
+ - Added/Finalized Projects 10, 11.1, and 11.2
+ - Added/Finalized Assignment 5
+ - Created SmartPhone and PhoneTester classes
+ - Changed Folders around. Created CSC200 folder for Game Programming
+ - Made Misc it's own folder
+ - Looking into easier navigation through the menus and managers
+ - Still working on displaying the Changelog...
+
+1.2.6 (3-4-2015)
+ - Added ClassProject9
+ - Assignment 4 technically created/finished. It's really just Assignment 3 being put into methods, which is what I already
+   did for Assignment 3
+
+1.2.5 (2-25-2015)
+ - Still working on actually being able to read the Changelog.
+ - Renamed "Programs" to "Class Projects"
+ - Coded MiscManager and ProjectManager
+ - Added ability to shut down the program from any program/subprogram
+
+1.2.4 (2-23-2015)
+ - Assignment3(), a3WhileLoops(), a3ForLoops(), a3DoWhileLooops() added/finished.
+ - Program 5 removed from Dev programs.
+ - Misc 2 no longer a Dev program.
+
+1.2.3 (2-16-2015)
+ - Added Misc Programs.
+
+1.2.2 (2-9-2015)
+ - Program 4 finished.
+ - Program 5 added as dev program. Has nothing but a window that appears saying it has nothing.
+ - Fixed a few small issues I found.
+
+1.2.1 (2-8-2015)
+ - Program 4 updated. Still got to fix that Null Pointer Exception
+ - Actually started stating the day when the change happened.
+
+1.2 "The Changelog Update!"
+ - Changelog first documented accurately!
+ - Dev Programs Added.
+ - Cleaned up some code.
+ - Added Program 4
+
+1.1
+ - Help, Help Commands, Information, etc added.
+ - Information displays who created this program.
+ - Program 3 and Assignment 1 Added.
+
+1.0
+ - Program Creation!
+ - Programs 1 & 2 Added.
